@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Risk Categorization and Threshold-Based Failure Prediction for the Differential Evolution Algorithm"
+authors:
+  - family-names: "Saad"
+    given-names: "Amani"
+  - family-names: "Engelbrecht"
+    given-names: "Andries P."
+  - family-names: "Khan"
+    given-names: "Salman A."
+date-released: 2026-06-27
